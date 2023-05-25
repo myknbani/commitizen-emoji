@@ -36,7 +36,7 @@ export const loadGitmoji: LoadGitmojiType = async () => {
   } else {
     // or download gitmojis.json, if it doesn't exist yet
     try {
-      const gitmojiJson: ResponseGitmojiType = await fetch('https://raw.githubusercontent.com/carloscuesta/gitmoji/master/packages/gitmojis/src/gitmojis.json')
+      const gitmojiJson: ResponseGitmojiType = await fetch('https://raw.githubusercontent.com/myknbani/commitizen-emoji/master/src/data/gitmojis.json')
         .then(res => res.json());
       gitmojiTypes = gitmojiJson.gitmojis;
       await fs.promises.writeFile(filePath, JSON.stringify(gitmojiTypes, undefined, 2));
