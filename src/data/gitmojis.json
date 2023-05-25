@@ -553,7 +553,7 @@
   },
   {
     "emoji": "🧑‍💻",
-    "entity": "&#x1F9D1;&#x200D;&#x1F4BB;",
+    "entity": "&#129489;&#8205;&#128187;",
     "code": ":technologist:",
     "description": "Improve developer experience.",
     "name": "technologist",

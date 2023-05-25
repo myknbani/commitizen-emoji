@@ -457,7 +457,7 @@ Each set comes with appropriate names and emojis, that are opinionated.
 
 Check out the origins of emoji commits - [gitmoji](https://gitmoji.dev/) fancy website.
 
-[gitmoji]: https://raw.githubusercontent.com/myknbani/commitizen-emoji/master/src/data/gitmojis.json
+[gitmoji]: https://raw.githubusercontent.com/carloscuesta/gitmoji/master/packages/gitmojis/src/gitmojis.json
 [commitizen]: https://github.com/commitizen/cz-cli
 [picture 1]: https://github.com/zorgick/commitizen-emoji/blob/master/assets/without_emoji.jpg?raw=true
 [picture 2]: https://github.com/zorgick/commitizen-emoji/blob/master/assets/with_emoji.jpg?raw=true
