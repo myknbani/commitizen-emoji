@@ -96,6 +96,14 @@
     "semver": "patch"
   },
   {
+    "emoji": "🔐",
+    "entity": "&#x1f510;",
+    "code": ":closed_lock_with_key:",
+    "description": "Add or update secrets.",
+    "name": "closed-lock-with-key",
+    "semver": null
+  },
+  {
     "emoji": "🔖",
     "entity": "&#x1f516;",
     "code": ":bookmark:",
@@ -169,7 +177,7 @@
   },
   {
     "emoji": "♻️",
-    "entity": "&#x2672;",
+    "entity": "&#x267b;",
     "code": ":recycle:",
     "description": "Refactor code.",
     "name": "recycle",
@@ -518,5 +526,133 @@
     "description": "Add a failing test.",
     "name": "test-tube",
     "semver": null
+  },
+  {
+    "emoji": "👔",
+    "entity": "&#128084;",
+    "code": ":necktie:",
+    "description": "Add or update business logic.",
+    "name": "necktie",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🩺",
+    "entity": "&#x1FA7A;",
+    "code": ":stethoscope:",
+    "description": "Add or update healthcheck.",
+    "name": "stethoscope",
+    "semver": null
+  },
+  {
+    "emoji": "🧱",
+    "entity": "&#x1f9f1;",
+    "code": ":bricks:",
+    "description": "Infrastructure related changes.",
+    "name": "bricks",
+    "semver": null
+  },
+  {
+    "emoji": "🧑‍💻",
+    "entity": "&#129489;&#8205;&#128187;",
+    "code": ":technologist:",
+    "description": "Improve developer experience.",
+    "name": "technologist",
+    "semver": null
+  },
+  {
+    "emoji": "💸",
+    "entity": "&#x1F4B8;",
+    "code": ":money_with_wings:",
+    "description": "Add sponsorships or money related infrastructure.",
+    "name": "money-with-wings",
+    "semver": null
+  },
+  {
+    "emoji": "🧵",
+    "entity": "&#x1F9F5;",
+    "code": ":thread:",
+    "description": "Add or update code related to multithreading or concurrency.",
+    "name": "thread",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🦺",
+    "entity": "&#x1F9BA;",
+    "code": ":safety_vest:",
+    "description": "Add or update code related to validation.",
+    "name": "safety-vest",
+    "semver": "patch"
+  },
+  {
+    "emoji": "👌",
+    "entity": "&#x1F44C;",
+    "code": ":ok_hand:",
+    "description": "Updating code due to code review changes.",
+    "name": "review",
+    "semver": null
+  },
+  {
+    "emoji": "🔍",
+    "entity": "&#128269;",
+    "code": ":mag:",
+    "description": "Improving SEO.",
+    "name": "seo",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🐳",
+    "entity": "&#x1F433;",
+    "code": ":whale:",
+    "description": "Work about Docker.",
+    "name": "docker",
+    "semver": null
+  },
+  {
+    "emoji": "☸️",
+    "entity": "&#9784;",
+    "code": ":wheel_of_dharma:",
+    "description": "Work about Kubernetes.",
+    "name": "k8s",
+    "semver": null
+  },
+  {
+    "emoji": "🍎",
+    "entity": "&#x1F34E;",
+    "code": ":apple:",
+    "description": "Fixing something on macOS.",
+    "name": "osx",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🐧",
+    "entity": "&#x1F427;",
+    "code": ":penguin:",
+    "description": "Fixing something on Linux.",
+    "name": "linux",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🏁",
+    "entity": "&#x1F3C1;",
+    "code": ":checkered_flag:",
+    "description": "Fixing something on Windows.",
+    "name": "windows",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🤖",
+    "entity": "&#x1F916;",
+    "code": ":robot:",
+    "description": "Fixing something on Android.",
+    "name": "android",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🍏",
+    "entity": "&#x1F34F;",
+    "code": ":green_apple:",
+    "description": "Fixing something on iOS.",
+    "name": "ios",
+    "semver": "patch"
   }
 ]
